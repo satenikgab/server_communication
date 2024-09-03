@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "101",
+      "text": "change css styles",
+      "status": "in progress"
+    },
+    {
+      "id": "105",
+      "text": "use carousel lib for gallery",
+      "status": "unstarted"
+    },
+    {
+      "id": "fb3f",
+      "text": "implement user authentication",
+      "status": "completed"
+    },
+    {
+      "id": "ea8e",
+      "text": "update API documentation",
+      "status": "in progress"
+    },
+    {
+      "id": "bbec",
+      "text": "fix login issue",
+      "status": "unstarted"
+    },
+    {
+      "id": "8160",
+      "text": "optimize database queries",
+      "status": "in progress"
+    },
+    {
+      "id": "a86d",
+      "text": "design landing page",
+      "status": "completed"
+    }
+  ]
+}
